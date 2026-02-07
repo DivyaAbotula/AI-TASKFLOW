@@ -1,0 +1,9 @@
+cd front-end
+npm run dev
+
+cd server 
+npm run dev
+
+cd GeminiAiMicroservice
+source venv/Scripts/activate
+python run_server.py
