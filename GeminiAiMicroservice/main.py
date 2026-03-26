@@ -37,7 +37,7 @@ generator = None
 @app.on_event("startup")
 async def startup_event():
     global generator
-    api_key = "AIzaSyAivJrDKpIgQOFqggq8qibCNg_jT0sI0C8"
+    api_key = "AIzaSyCFmmRvCvLGcIhzMlQ7sFJWMenj0lFIHuY"
     if not api_key:
         raise Exception("GEMINI_API_KEY environment variable not set")
     

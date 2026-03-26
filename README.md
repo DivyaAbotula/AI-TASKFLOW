@@ -1,8 +1,10 @@
-# 🤖 Intelligent Goal Decomposition and Task Scheduling Using AI Technologies - Intelligent Task Management System
+# 🤖 AI TaskFlow: An Intelligent Goal Decomposition
+and Task Scheduling System - Intelligent Task Management System
 
 <div align="center">
 
-![Intelligent Goal Decomposition and Task Scheduling Using AI Technologies Logo](https://img.shields.io/badge/AI-TaskFlow-blue?style=for-the-badge&logo=artificial-intelligence)
+![AI TaskFlow: An Intelligent Goal Decomposition
+and Task Scheduling System Logo](https://img.shields.io/badge/AI-TaskFlow-blue?style=for-the-badge&logo=artificial-intelligence)
 
 **Transform your goals into actionable tasks with the power of AI**
 
@@ -16,7 +18,8 @@
 
 ## 🌟 Overview
 
-Intelligent Goal Decomposition and Task Scheduling Using AI Technologies is an intelligent task management web application that revolutionizes how you approach your goals. Simply input your objective and timeline, and watch as our AI breaks it down into structured, actionable weekly and daily tasks. Perfect for students, professionals, and anyone looking to turn ambitious goals into achievable milestones.
+AI TaskFlow: An Intelligent Goal Decomposition
+and Task Scheduling System is an intelligent task management web application that revolutionizes how you approach your goals. Simply input your objective and timeline, and watch as our AI breaks it down into structured, actionable weekly and daily tasks. Perfect for students, professionals, and anyone looking to turn ambitious goals into achievable milestones.
 
 ### ✨ Key Highlights
 
@@ -28,7 +31,8 @@ Intelligent Goal Decomposition and Task Scheduling Using AI Technologies is an i
 
 ## 🚀 Live Demo
 
-**🌐 [Try Intelligent Goal Decomposition and Task Scheduling Using AI Technologies Now](https://ai-taskflow-frontend.onrender.com/)**
+**🌐 [Try AI TaskFlow: An Intelligent Goal Decomposition
+and Task Scheduling System Now](https://ai-taskflow-frontend.onrender.com/)**
 
 *Experience the power of AI-driven task planning firsthand!*
 

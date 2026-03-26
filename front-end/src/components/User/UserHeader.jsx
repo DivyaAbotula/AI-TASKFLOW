@@ -148,7 +148,8 @@ const UserHeader = () => {
           <div className="flex items-center space-x-3 cursor-pointer" onClick={() => navigate('/')}>
         
             <div>
-              <span className="text-xl font-bold text-gray-900">Intelligent Goal Decomposition and Task Scheduling Using AI Technologies</span>
+              <span className="text-xl font-bold text-gray-900">AI TaskFlow: An Intelligent Goal Decomposition
+and Task Scheduling System</span>
               <div className="text-xs text-green-500 font-medium"></div>
             </div>
           </div>

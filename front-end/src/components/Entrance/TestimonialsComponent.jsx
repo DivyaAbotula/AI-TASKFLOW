@@ -94,7 +94,8 @@ const TestimonialsComponent = () => {
               What Our Users Say
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Join thousands of satisfied users who have transformed their productivity with Intelligent Goal Decomposition and Task Scheduling Using AI Technologies
+              Join thousands of satisfied users who have transformed their productivity with AI TaskFlow: An Intelligent Goal Decomposition
+and Task Scheduling System
             </p>
           </div>
         </div>
@@ -222,7 +223,8 @@ const TestimonialsComponent = () => {
             What Our Users Say
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Join thousands of satisfied users who have transformed their productivity with Intelligent Goal Decomposition and Task Scheduling Using AI Technologies
+            Join thousands of satisfied users who have transformed their productivity with AI TaskFlow: An Intelligent Goal Decomposition
+and Task Scheduling System
           </p>
         </div>
       </div>

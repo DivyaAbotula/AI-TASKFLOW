@@ -43,7 +43,12 @@ const menuItems = [
        path: '/admin/users',
        description: 'user wise statistics'
      },
-
+  {
+       icon: Star,
+       label: 'Reviews',
+       path: '/admin/reviews',
+       description: 'User feedback'
+     },
      
      {
        icon: UserCog,

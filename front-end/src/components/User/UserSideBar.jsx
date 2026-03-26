@@ -111,8 +111,20 @@ const UserSideBar = () => {
       label: 'Dashboard',
       path: '/user/dashboard',
       description: 'View analytics'
+    }, 
+    {
+      icon: FileScan,
+      label: 'Resume Check',
+      path: '/user/check-resume',
+      description: 'Check Resume Score'
     },
-     
+    
+      {
+      icon: MessageSquare,
+      label: 'Feedback',
+      path: '/user/feedback',
+      description: 'Share feedback'
+    },
     {
       icon: User,
       label: 'Profile',

@@ -80,13 +80,10 @@ const AdminHeader = () => {
             className="flex items-center space-x-3 cursor-pointer"
             onClick={() => navigate('/')}
           >
-            <div className="relative">
-              <div className="w-10 h-10 bg-green-500 rounded-xl flex items-center justify-center transform rotate-12">
-              </div>
-              <div className="absolute -top-1 -right-1 w-3 h-3 bg-green-500 rounded-full animate-pulse"></div>
-            </div>
+            
             <div>
-              <span className="text-xl font-bold text-gray-900">Intelligent Goal Decomposition and Task Scheduling Using AI Technologies</span>
+              <span className="text-xl font-bold text-gray-900">AI TaskFlow: An Intelligent Goal Decomposition
+and Task Scheduling System</span>
               <div className="text-xs text-green-500 font-medium">Admin Panel</div>
             </div>
           </div>

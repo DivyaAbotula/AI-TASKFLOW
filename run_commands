@@ -7,3 +7,11 @@ npm run dev
 cd GeminiAiMicroservice
 source venv/Scripts/activate
 python run_server.py
+
+python -m venv venv (if venv is not created)
+cd ResumeScanner
+cd server
+source venv/Scripts/activate
+uvicorn app.main:app --reload --port 10000
+
+

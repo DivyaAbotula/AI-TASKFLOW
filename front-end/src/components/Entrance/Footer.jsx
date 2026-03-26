@@ -15,7 +15,8 @@ const Footer = () => {
               </div>
               <div>
                 <span className="text-2xl font-bold text-gray-900">
-                  Intelligent Goal Decomposition and Task Scheduling Using AI Technologies
+                  AI TaskFlow: An Intelligent Goal Decomposition
+and Task Scheduling System
                 </span>
                 <div className="text-xs text-green-500 font-medium"></div>
               </div>

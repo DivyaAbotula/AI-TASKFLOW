@@ -18,7 +18,8 @@ const Header = () => {
             </div>
             <div>
               <span className="text-xl font-bold text-gray-900">
-                Intelligent Goal Decomposition and Task Scheduling Using AI Technologies
+                AI TaskFlow: An Intelligent Goal Decomposition
+and Task Scheduling System
               </span>
               <div className="text-xs text-green-500 font-medium"></div>
             </div>
@@ -64,7 +65,8 @@ const Header = () => {
                       <div className="absolute -top-1 -right-1 w-3 h-3 bg-gradient-to-br from-green-500 to-[#66B539] rounded-full animate-pulse shadow-sm"></div>
                     </div>
                     <div>
-                      <span className="text-xl font-bold text-gray-900">Intelligent Goal Decomposition and Task Scheduling Using AI Technologies</span>
+                      <span className="text-xl font-bold text-gray-900">AI TaskFlow: An Intelligent Goal Decomposition
+and Task Scheduling System</span>
                       <div className="text-xs text-green-500 font-semibold"></div>
                     </div>
                   </SheetTitle>

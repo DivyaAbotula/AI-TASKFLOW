@@ -307,7 +307,8 @@ const Register = () => {
       <div className="mt-8 p-4 bg-green-50 rounded-lg border border-green-200">
         <div className="text-center">
           <p className="text-sm font-semibold text-green-600 mb-1">
-            Why choose Intelligent Goal Decomposition and Task Scheduling Using AI Technologies
+            Why choose AI TaskFlow: An Intelligent Goal Decomposition
+and Task Scheduling System
 ?
           </p>
           <p className="text-xs text-gray-600">

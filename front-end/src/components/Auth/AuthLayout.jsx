@@ -29,10 +29,10 @@ const AuthLayout = () => {
               </button>
               
               <div className="flex items-center space-x-3 cursor-pointer" onClick={() => navigate('/')}>
-                <div className="p-2 bg-green-500 rounded-lg">
-                </div>
+                
                 <div>
-                  <h1 className="text-3xl font-bold text-gray-900">Intelligent Goal Decomposition and Task Scheduling Using AI Technologies
+                  <h1 className="text-3xl font-bold text-gray-900">AI TaskFlow: An Intelligent Goal Decomposition
+and Task Scheduling System
 </h1>
                 </div>
               </div>
@@ -153,7 +153,8 @@ const AuthLayout = () => {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col sm:flex-row items-center justify-between space-y-4 sm:space-y-0">
             <div className="flex flex-col sm:flex-row items-center space-y-2 sm:space-y-0 sm:space-x-6">
-              <span className="text-sm text-gray-600 text-center sm:text-left">© 2025 Intelligent Goal Decomposition and Task Scheduling Using AI Technologies
+              <span className="text-sm text-gray-600 text-center sm:text-left">© 2025 AI TaskFlow: An Intelligent Goal Decomposition
+and Task Scheduling System
 . All rights reserved.</span>
               <div className="flex items-center space-x-4">
                 <a 
