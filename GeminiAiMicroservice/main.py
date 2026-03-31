@@ -7,7 +7,8 @@ from typing import Optional, List
 from models import LearningPlanRequest, TaskItem, LearningPlanResponse
 from learning_plan_generator import LearningPlanGenerator
 import traceback
-
+from dotenv import load_dotenv
+load_dotenv()  # Load environment variables from .env 
 app = FastAPI(
     title="Enhanced Learning Plan Generator API",
     description="Generate highly personalized, progressive learning plans using AI",
@@ -37,7 +38,7 @@ generator = None
 @app.on_event("startup")
 async def startup_event():
     global generator
-    api_key = "AIzaSyCFmmRvCvLGcIhzMlQ7sFJWMenj0lFIHuY"
+    api_key =os.getenv("GEMINI_API_KEY")
     if not api_key:
         raise Exception("GEMINI_API_KEY environment variable not set")
     

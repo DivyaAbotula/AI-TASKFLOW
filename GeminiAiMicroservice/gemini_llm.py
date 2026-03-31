@@ -5,7 +5,7 @@ import requests
 
 class GeminiLLM(LLM):
     api_key: str
-    model: str = "gemini-2.5-flash"
+    model: str = "gemini-2.5-flash-lite"
     temperature: float = 0.7
     max_tokens: int = 8192
 
