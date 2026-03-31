@@ -1,0 +1,17 @@
+cd front-end
+npm run dev
+
+cd server 
+npm run dev
+
+cd GeminiAiMicroservice
+source venv/Scripts/activate
+python run_server.py
+
+python -m venv venv (if venv is not created)
+cd ResumeScanner
+cd server
+source venv/Scripts/activate
+uvicorn app.main:app --reload --port 10000
+
+mongosh mongodb+srv://divyaabotula1_db_user:u1C8ZZqh2wBqJ6Bo@cluster0.ofd8pdy.mongodb.net/
